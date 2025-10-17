@@ -22,7 +22,7 @@ git clone https://github.com/Setiasmk/silelah
 ```
 4. Open the folder
 ```
-cd me-cli
+cd silelah
 ```
 5. Setup
 ```
